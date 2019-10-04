@@ -1,2 +1,4 @@
-# GroupA_LabReview
-Reviewing how workflow breaks and how to fix it
+
+# Lab Review - Group A
+Working through some common issues with Git and Github Reviewing how workflow breaks and how to fix it
+
